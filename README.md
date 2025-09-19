@@ -30,9 +30,9 @@ Part 2: Data cleaning & preparation
 Part 3: Analysis & visualizations
 
 🌐 Run the Streamlit App (Part 4)
-
-
-
+Online Deployment
+This project is also deployed on Streamlit Community Cloud
+Demo - https://plppythonweek-8-pythonframeworks-assignment-8ppqwr2harosueszev.streamlit.app/
 
 
 📊 Features in the App
@@ -47,6 +47,7 @@ Preview a sample of the dataset interactively
 - Messy/absent dates → handled via `errors='coerce'`.
 - Many nulls in some columns → dropped where necessary; filled journals with "Unknown".
 - Streamlit was not running -> Finally managed to get it started on GitBash then copied the network url to Microsoft Edge browser to view it.
+- Uploading the metadata.csv file to the repo was unattainable -> Had to upload a smaller csv file of 10k enteries.
 
 ## What I learned
 - Practical pandas cleaning steps (dates, nulls, new features).

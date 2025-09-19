@@ -55,4 +55,4 @@ Preview a sample of the dataset interactively
 - Building a minimal Streamlit dashboard from a cleaned CSV.
 - Gitbash doesn't recognize long paths, thus quote marks are needed.
 - Need to understand what each line of code represents and does.
-- Streamlit cannot be viewed from my local machine or network, thus it's easier to deploy it online.
+- Streamlit cannot be viewed from my local machine or network, thus it's easier to deploy it online. 
